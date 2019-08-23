@@ -1,0 +1,14 @@
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.deps.json
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.runtimeconfig.json
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.runtimeconfig.dev.json
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.dll
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.csprojAssemblyReference.cache
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.csproj.CoreCompileInputs.cache
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorAssemblyInfo.cache
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorAssemblyInfo.cs
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfoInputs.cache
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfo.cs
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorTargetAssemblyInfo.cache
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.pdb
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.dll
+D:\Veena\IndustryConnect\Practical\APIMongodB\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.pdb
